@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #392060;
+}
+#img {
+    max-width: 3em;
+}
+#quest {
+    margin: auto;
+    background-color: #ecbc09;
+    width: 50%;
+    max-width: 67.784mm;
+    border-radius: 1rem;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    box-shadow: #42360a 5px 5px;
+}
+
+#ressec {
+    margin: auto;
+    max-width: 20em;
+    margin-top: 1em;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border-radius: 1rem;
+    box-shadow: #00aeff 5px 5px;
+}
